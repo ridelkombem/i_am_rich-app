@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 //The main function is the starting point for all flutter apps
 
-void main() => runApp( MyApp());
-
+void main() => runApp(
+      MyApp(),
+    );
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
